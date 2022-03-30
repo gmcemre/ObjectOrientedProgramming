@@ -1,0 +1,9 @@
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.exe.config
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.exe
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.pdb
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.Form1.resources
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.Properties.Resources.resources
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.csproj.GenerateResource.cache
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.exe
+D:\Projects\2_OOP\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumeratorKullanimi", "IEnumeratorKullanimi\IEnumeratorKullanimi.csproj", "{AF2BCDEA-29D2-45AE-9B1C-CB34364FCB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2BCDEA-29D2-45AE-9B1C-CB34364FCB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2BCDEA-29D2-45AE-9B1C-CB34364FCB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2BCDEA-29D2-45AE-9B1C-CB34364FCB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2BCDEA-29D2-45AE-9B1C-CB34364FCB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C331D6D6-8B9A-4AB8-A426-1ACC9084D061}
+	EndGlobalSection
+EndGlobal

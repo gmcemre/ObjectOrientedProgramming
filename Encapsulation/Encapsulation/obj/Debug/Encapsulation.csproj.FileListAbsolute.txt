@@ -1,0 +1,10 @@
+D:\Projects\2_OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\Projects\2_OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+D:\Projects\2_OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+D:\Projects\2_OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

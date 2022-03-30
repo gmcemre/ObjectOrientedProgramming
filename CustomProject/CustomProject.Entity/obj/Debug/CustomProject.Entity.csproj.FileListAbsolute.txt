@@ -1,0 +1,9 @@
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Entity.dll
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Entity.pdb
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Common.dll
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Common.pdb
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csproj.AssemblyReference.cache
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csproj.CopyComplete
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.dll
+D:\Projects\2_OOP\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.pdb

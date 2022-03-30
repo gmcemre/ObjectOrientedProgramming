@@ -1,0 +1,10 @@
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\bin\Debug\OOP_Introduction.exe.config
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\bin\Debug\OOP_Introduction.exe
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\bin\Debug\OOP_Introduction.pdb
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.csproj.AssemblyReference.cache
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.Form1.resources
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.Properties.Resources.resources
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.csproj.GenerateResource.cache
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.exe
+D:\Projects\2_OOP\OOP_Introduction\OOP_Introduction\obj\Debug\OOP_Introduction.pdb

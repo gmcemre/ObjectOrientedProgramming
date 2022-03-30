@@ -1,0 +1,6 @@
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\bin\Debug\CustomProject.Common.dll
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\bin\Debug\CustomProject.Common.pdb
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\obj\Debug\CustomProject.Common.csproj.AssemblyReference.cache
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\obj\Debug\CustomProject.Common.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\obj\Debug\CustomProject.Common.dll
+D:\Projects\2_OOP\CustomProject\CustomProject.Common\obj\Debug\CustomProject.Common.pdb

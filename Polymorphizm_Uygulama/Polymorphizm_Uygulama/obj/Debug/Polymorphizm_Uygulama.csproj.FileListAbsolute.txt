@@ -1,0 +1,10 @@
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\bin\Debug\Polymorphizm_Uygulama.exe.config
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\bin\Debug\Polymorphizm_Uygulama.exe
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\bin\Debug\Polymorphizm_Uygulama.pdb
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.csproj.AssemblyReference.cache
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.Form1.resources
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.Properties.Resources.resources
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.csproj.GenerateResource.cache
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.csproj.CoreCompileInputs.cache
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.exe
+D:\Projects\2_OOP\Polymorphizm_Uygulama\Polymorphizm_Uygulama\obj\Debug\Polymorphizm_Uygulama.pdb
